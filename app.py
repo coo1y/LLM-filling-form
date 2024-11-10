@@ -8,7 +8,7 @@ from gtts import gTTS
 from pygame import mixer
 import subprocess
 
-uploaded_file = "result/i-765_decrypt (1).pdf"
+uploaded_file = "data/i-765_decrypt (1).pdf"
 
 st.set_page_config(page_title="PDF form filling", page_icon="📖", layout="wide")
 st.header("I-765 Form Filling")
